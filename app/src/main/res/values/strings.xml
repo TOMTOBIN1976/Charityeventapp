@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Charityeventapp</string>
+    <string name="button_addCharitymark">Add Charitymark</string>
+    <string name="hint_charitymarkTitle">Charitymark Title</string>
 </resources>
